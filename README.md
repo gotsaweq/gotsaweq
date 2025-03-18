@@ -2,11 +2,6 @@
 
 ###
 
-<div align="center">
-</div>
-
-###
-
 <img align="right" height="187" src="https://i.pinimg.com/originals/ae/31/d2/ae31d2ec20c4040b1b92f7202cf26e4b.gif"  />
 
 ###
@@ -47,8 +42,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gotsaweq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gotsaweq&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false&point=ffffff&area_color=ffffff&line=ffffff&bg_color=0d1117&color=ffffff&title_color=ffffff" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gotsaweq/count.svg?"  />
+</div>
+
+###
+
