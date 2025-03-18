@@ -1,4 +1,4 @@
-<h1 align="center">gotsawe Artem Sidorov</h1>
+<h1 align="center">👩‍💻 Artem Sidorov</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
